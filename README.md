@@ -90,6 +90,10 @@ A visual control surface exposes system state, memory, agents and interactive wo
 
 The production project includes personal memory, automation rules, local infrastructure and private integrations. None of those assets are published here.
 
+## More Documentation
+
+[Architecture notes](./docs/ARCHITECTURE.md)
+
 ---
 
 **Private source repository · Public AI systems architecture showcase**
